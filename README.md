@@ -1,5 +1,7 @@
 # Thesis in progress
 
+Thanks for reading!
+
 [abstract, table of content](https://github.com/tree-pi/Thesis/blob/main/abstract_table_contents.pdf)
 
 [chapter 1, Introduction. *work in progress*](https://github.com/tree-pi/Thesis/blob/main/introduction_work_in_progress.pdf)
