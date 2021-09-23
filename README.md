@@ -5,7 +5,7 @@ Thanks for reading!
 
 [Abstract + table of content](https://github.com/tree-pi/Thesis/blob/main/abstract_table_contents.pdf)
 
-[Chapter 1. Introduction](https://github.com/tree-pi/Thesis/blob/main/introduction_work_in_progress.pdf) -- updated, done
+[Chapter 1. Introduction](https://github.com/tree-pi/Thesis/blob/main/introduction.pdf) -- updated, done
 
 [Chapter 2. Expectations about future learning influence moment-to-moment feelings of suspense](https://github.com/tree-pi/Thesis/blob/main/Chapter2_suspense.pdf)
 (Published in Cognition and Emotion)
