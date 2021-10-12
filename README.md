@@ -4,6 +4,9 @@ Thanks for reading! The final edition after defense will be uploaded soon.
 
 [Full thesis](https://github.com/tree-pi/Thesis/blob/main/Dissertation_full.pdf)
 
+---
+Thesis by chapters
+
 [Abstract + table of content](https://github.com/tree-pi/Thesis/blob/main/abstract_table_contents.pdf)
 
 [Chapter 1. Introduction](https://github.com/tree-pi/Thesis/blob/main/introduction.pdf)
