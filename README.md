@@ -1,6 +1,8 @@
 # Thesis. Final.
 
-Thanks for reading! The final edition after defense will be uploaded soon.
+Thanks for reading! 
+
+My thesis focuses on the subjective judgments or emotions that do not obviously relate to instrumental values. My work explores three different subjective judgments: the subjective feeling of suspense, satisfaction of explanation, as well as preference for food. By constructing different latent variables based upon probabilitic models and testing with new quantitative experiments, my work advances a formal, predictive account of what are previously through to be highly subjective, individualized judgment and emotions.
 
 [Full thesis](https://github.com/tree-pi/Thesis/blob/main/Dissertation_full.pdf)
 
